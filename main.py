@@ -8,9 +8,7 @@ def calculator():
 
    
 
-    if op == "+":
-
-        return f'Result {num1 + num2}'
+    
 
     elif op == "-":
 
